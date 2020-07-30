@@ -1,4 +1,4 @@
-module github.com/codemodus/uidgen
+module github.com/satraul/uidgen
 
 go 1.13
 
